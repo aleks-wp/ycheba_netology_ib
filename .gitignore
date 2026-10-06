@@ -24,6 +24,12 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Данные
+#*.xlsx
+#*.csv
 
-*.xlsx
-*.csv
+# Архивы
+*.tgz
+*.gz
+*.zip
+*.tar
